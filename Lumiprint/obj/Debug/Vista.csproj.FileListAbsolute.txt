@@ -1,0 +1,681 @@
+E:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+J:\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+J:\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+J:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+J:\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+J:\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+J:\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+J:\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+E:\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+E:\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+E:\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+E:\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+E:\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+E:\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\Memoria\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\Memoria\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+D:\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+D:\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+D:\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+D:\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+D:\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+D:\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+D:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Vista.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Logica.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Datos.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistrarEmpleado.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistrarCompra.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistrarInventario.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistrarMaquinaria.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistrarProveedor.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\Avances Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+I:\Avances Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\Avances Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.exe
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Vista.exe
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Logica.exe
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Datos.exe
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+D:\XD\Avances Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+D:\XD\Avances Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\XD\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+I:\XD\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\XD\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+D:\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+D:\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+I:\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+I:\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.Reporte_Empleados.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+E:\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+E:\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+E:\Lumiprint\Lumiprint\bin\Debug\RMCCustomControls.dll
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Reporte_Empleados.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Reporte_Empleados.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+C:\Users\pc20\Desktop\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+J:\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+J:\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+G:\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+G:\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+G:\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+G:\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+G:\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+G:\Lumiprint\Lumiprint\bin\Debug\RMCCustomControls.dll
+G:\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+G:\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+G:\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+G:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+G:\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+E:\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+D:\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\itextsharp.dll
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\itextsharp.pdfa.dll
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+E:\VersionesProyecto\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+E:\VersionesProyecto\Lumiprint\Lumiprint\obj\Debug\Vista.SCompleteLaCompra.resources
+C:\Users\Slend\Downloads\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\Slend\Downloads\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+D:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.CajaTa.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SCompleteLaCompra.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+D:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SCompleteLaCompra.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+J:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+J:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SCompleteLaCompra.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+I:\PROYECTO\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+I:\PROYECTO\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Consulta.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Documento.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarCompras.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarEmpleados.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarInventario.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarMaquinariaa.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarProveedores.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.GestionarVentas.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionCompleta.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.ModificacionIncompleta.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.NoAbrir.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Produccion.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Registro_Incompleto.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.RegistroCompletado.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SCompleteLaCompra.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCerrarSesion.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Iniciodesesion.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.MenuPrincipal.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteCam.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteContra.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadCompleteNom.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeguridadIniciodeSesion.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SErrorConexion.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SNomIncorrec.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Vista.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Vista.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Logica.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Datos.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Datos.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\bin\Debug\Logica.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Lumiprint\obj\Debug\Vista.SeleccioneUnaFila.resources

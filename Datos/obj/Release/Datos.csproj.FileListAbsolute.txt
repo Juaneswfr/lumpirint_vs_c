@@ -1,0 +1,35 @@
+I:\Lumiprint\Datos\bin\Release\Datos.exe
+I:\Lumiprint\Datos\bin\Release\Datos.pdb
+I:\Lumiprint\Datos\obj\Release\ResolveAssemblyReference.cache
+I:\Lumiprint\Datos\obj\Release\Datos.Properties.Resources.resources
+I:\Lumiprint\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+I:\Lumiprint\Datos\obj\Release\Datos.exe
+I:\Lumiprint\Datos\obj\Release\Datos.pdb
+J:\Lumiprint\Datos\obj\Release\ResolveAssemblyReference.cache
+J:\Lumiprint\Datos\obj\Release\Datos.Properties.Resources.resources
+J:\Lumiprint\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+J:\Lumiprint\Datos\obj\Release\Datos.exe
+J:\Lumiprint\Datos\obj\Release\Datos.pdb
+J:\Lumiprint\Datos\bin\Release\Datos.exe
+J:\Lumiprint\Datos\bin\Release\Datos.pdb
+E:\Lumiprint\Datos\bin\Release\Datos.exe
+E:\Lumiprint\Datos\bin\Release\Datos.pdb
+E:\Lumiprint\Datos\obj\Release\ResolveAssemblyReference.cache
+E:\Lumiprint\Datos\obj\Release\Datos.Properties.Resources.resources
+E:\Lumiprint\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+E:\Lumiprint\Datos\obj\Release\Datos.exe
+E:\Lumiprint\Datos\obj\Release\Datos.pdb
+I:\Avances Lumiprint\Datos\bin\Release\Datos.exe
+I:\Avances Lumiprint\Datos\bin\Release\Datos.pdb
+I:\Avances Lumiprint\Datos\obj\Release\ResolveAssemblyReference.cache
+I:\Avances Lumiprint\Datos\obj\Release\Datos.Properties.Resources.resources
+I:\Avances Lumiprint\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Datos\obj\Release\Datos.exe
+I:\Avances Lumiprint\Datos\obj\Release\Datos.pdb
+D:\Lumiprint\Datos\bin\Release\Datos.exe
+D:\Lumiprint\Datos\bin\Release\Datos.pdb
+D:\Lumiprint\Datos\obj\Release\ResolveAssemblyReference.cache
+D:\Lumiprint\Datos\obj\Release\Datos.Properties.Resources.resources
+D:\Lumiprint\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+D:\Lumiprint\Datos\obj\Release\Datos.exe
+D:\Lumiprint\Datos\obj\Release\Datos.pdb

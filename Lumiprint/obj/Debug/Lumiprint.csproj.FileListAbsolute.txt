@@ -1,0 +1,39 @@
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Iniciodesesion.resources
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\Lumiprint.csproj.GenerateResource.Cache
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\janus\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\Lumiprint\Lumiprint\bin\Debug\Lumiprint.exe
+I:\Lumiprint\Lumiprint\bin\Debug\Lumiprint.pdb
+I:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+I:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Iniciodesesion.resources
+I:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.csproj.GenerateResource.Cache
+I:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.exe
+I:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.pdb
+I:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\Lumiprint.exe
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\Lumiprint.pdb
+E:\Programación\Lumiprint\Lumiprint\bin\Debug\Lumiprint.exe
+E:\Programación\Lumiprint\Lumiprint\bin\Debug\Lumiprint.pdb
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Iniciodesesion.resources
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Programación\Lumiprint\Lumiprint\obj\Debug\Lumiprint.csproj.GenerateResource.Cache
+J:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.exe
+J:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.pdb
+J:\Lumiprint\Lumiprint\bin\Debug\Lumiprint.exe
+J:\Lumiprint\Lumiprint\bin\Debug\Lumiprint.pdb
+J:\Lumiprint\Lumiprint\obj\Debug\ResolveAssemblyReference.cache
+J:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.SeguridadCerrarSesion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Iniciodesesion.resources
+J:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+J:\Lumiprint\Lumiprint\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.csproj.GenerateResource.Cache
+E:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.exe
+E:\Lumiprint\Lumiprint\obj\Debug\Lumiprint.pdb

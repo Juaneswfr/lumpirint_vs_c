@@ -1,0 +1,43 @@
+I:\Lumiprint\Logica\bin\Release\Logica.exe
+I:\Lumiprint\Logica\bin\Release\Logica.pdb
+I:\Lumiprint\Logica\obj\Release\ResolveAssemblyReference.cache
+I:\Lumiprint\Logica\obj\Release\Logica.Properties.Resources.resources
+I:\Lumiprint\Logica\obj\Release\Logica.csproj.GenerateResource.Cache
+I:\Lumiprint\Logica\obj\Release\Logica.exe
+I:\Lumiprint\Logica\obj\Release\Logica.pdb
+J:\Lumiprint\Logica\obj\Release\Logica.exe
+J:\Lumiprint\Logica\obj\Release\Logica.pdb
+J:\Lumiprint\Logica\obj\Release\ResolveAssemblyReference.cache
+J:\Lumiprint\Logica\obj\Release\Logica.Properties.Resources.resources
+J:\Lumiprint\Logica\obj\Release\Logica.csproj.GenerateResource.Cache
+E:\Lumiprint\Logica\bin\Release\Logica.exe
+E:\Lumiprint\Logica\bin\Release\Logica.pdb
+E:\Lumiprint\Logica\bin\Release\Datos.exe
+E:\Lumiprint\Logica\bin\Release\Datos.pdb
+E:\Lumiprint\Logica\obj\Release\ResolveAssemblyReference.cache
+E:\Lumiprint\Logica\obj\Release\Logica.Properties.Resources.resources
+E:\Lumiprint\Logica\obj\Release\Logica.csproj.GenerateResource.Cache
+E:\Lumiprint\Logica\obj\Release\Logica.exe
+E:\Lumiprint\Logica\obj\Release\Logica.pdb
+I:\Avances Lumiprint\Logica\bin\Release\Logica.exe
+I:\Avances Lumiprint\Logica\bin\Release\Logica.pdb
+I:\Avances Lumiprint\Logica\bin\Release\Datos.exe
+I:\Avances Lumiprint\Logica\bin\Release\Datos.pdb
+I:\Avances Lumiprint\Logica\obj\Release\ResolveAssemblyReference.cache
+I:\Avances Lumiprint\Logica\obj\Release\Logica.Properties.Resources.resources
+I:\Avances Lumiprint\Logica\obj\Release\Logica.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Logica\obj\Release\Logica.exe
+I:\Avances Lumiprint\Logica\obj\Release\Logica.pdb
+D:\Lumiprint\Logica\bin\Release\Logica.exe
+D:\Lumiprint\Logica\bin\Release\Logica.pdb
+D:\Lumiprint\Logica\bin\Release\Datos.exe
+D:\Lumiprint\Logica\bin\Release\Datos.pdb
+D:\Lumiprint\Logica\obj\Release\ResolveAssemblyReference.cache
+D:\Lumiprint\Logica\obj\Release\Logica.Properties.Resources.resources
+D:\Lumiprint\Logica\obj\Release\Logica.csproj.GenerateResource.Cache
+D:\Lumiprint\Logica\obj\Release\Logica.exe
+D:\Lumiprint\Logica\obj\Release\Logica.pdb
+I:\Lumiprint\Logica\bin\Release\Datos.exe
+I:\Lumiprint\Logica\bin\Release\Datos.pdb
+I:\Lumiprint\Logica\bin\Release\itextsharp.dll
+I:\Lumiprint\Logica\bin\Release\itextsharp.pdfa.dll

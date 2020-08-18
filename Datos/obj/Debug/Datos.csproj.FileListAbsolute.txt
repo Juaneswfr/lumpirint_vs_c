@@ -1,0 +1,77 @@
+I:\Lumiprint\Datos\bin\Debug\Datos.exe
+I:\Lumiprint\Datos\bin\Debug\Datos.pdb
+I:\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+I:\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+I:\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+I:\Lumiprint\Datos\obj\Debug\Datos.exe
+I:\Lumiprint\Datos\obj\Debug\Datos.pdb
+J:\Lumiprint\Datos\bin\Debug\Datos.exe
+J:\Lumiprint\Datos\bin\Debug\Datos.pdb
+J:\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+J:\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+J:\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+J:\Lumiprint\Datos\obj\Debug\Datos.exe
+J:\Lumiprint\Datos\obj\Debug\Datos.pdb
+E:\Lumiprint\Datos\bin\Debug\Datos.exe
+E:\Lumiprint\Datos\bin\Debug\Datos.pdb
+E:\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+E:\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+E:\Lumiprint\Datos\obj\Debug\Datos.exe
+E:\Lumiprint\Datos\obj\Debug\Datos.pdb
+D:\Lumiprint\Datos\bin\Debug\Datos.exe
+D:\Lumiprint\Datos\bin\Debug\Datos.pdb
+D:\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+D:\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+D:\Lumiprint\Datos\obj\Debug\Datos.exe
+D:\Lumiprint\Datos\obj\Debug\Datos.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\bin\Debug\Datos.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\obj\Debug\Datos.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Datos\obj\Debug\Datos.pdb
+C:\Users\pc20\Desktop\Lumiprint\Datos\bin\Debug\Datos.exe
+C:\Users\pc20\Desktop\Lumiprint\Datos\bin\Debug\Datos.pdb
+C:\Users\pc20\Desktop\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc20\Desktop\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+C:\Users\pc20\Desktop\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+C:\Users\pc20\Desktop\Lumiprint\Datos\obj\Debug\Datos.exe
+C:\Users\pc20\Desktop\Lumiprint\Datos\obj\Debug\Datos.pdb
+G:\Lumiprint\Datos\bin\Debug\Datos.exe
+G:\Lumiprint\Datos\bin\Debug\Datos.pdb
+G:\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+G:\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+G:\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+G:\Lumiprint\Datos\obj\Debug\Datos.exe
+G:\Lumiprint\Datos\obj\Debug\Datos.pdb
+I:\VersionesProyecto\Lumiprint\Datos\bin\Debug\Datos.exe
+I:\VersionesProyecto\Lumiprint\Datos\bin\Debug\Datos.pdb
+I:\VersionesProyecto\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+I:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+I:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+I:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.exe
+I:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.pdb
+E:\VersionesProyecto\Lumiprint\Datos\bin\Debug\Datos.exe
+E:\VersionesProyecto\Lumiprint\Datos\bin\Debug\Datos.pdb
+E:\VersionesProyecto\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+E:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+E:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.exe
+E:\VersionesProyecto\Lumiprint\Datos\obj\Debug\Datos.pdb
+J:\PROYECTO\Lumiprint\Datos\bin\Debug\Datos.exe
+J:\PROYECTO\Lumiprint\Datos\bin\Debug\Datos.pdb
+J:\PROYECTO\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+J:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+J:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+J:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.exe
+J:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.pdb
+I:\PROYECTO\Lumiprint\Datos\bin\Debug\Datos.exe
+I:\PROYECTO\Lumiprint\Datos\bin\Debug\Datos.pdb
+I:\PROYECTO\Lumiprint\Datos\obj\Debug\ResolveAssemblyReference.cache
+I:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.Properties.Resources.resources
+I:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.csproj.GenerateResource.Cache
+I:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.exe
+I:\PROYECTO\Lumiprint\Datos\obj\Debug\Datos.pdb

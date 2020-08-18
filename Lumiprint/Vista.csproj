@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B26DF647-7A03-4561-B5BC-2DD77E443DC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vista</RootNamespace>
+    <AssemblyName>Vista</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="RMCCustomControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RMCCustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta.Designer.cs">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Documento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Documento.Designer.cs">
+      <DependentUpon>Documento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarCompras.Designer.cs">
+      <DependentUpon>GestionarCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarEmpleados.Designer.cs">
+      <DependentUpon>GestionarEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarInventario.Designer.cs">
+      <DependentUpon>GestionarInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarMaquinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarMaquinaria.Designer.cs">
+      <DependentUpon>GestionarMaquinaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarProveedores.Designer.cs">
+      <DependentUpon>GestionarProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionarVentas.designer.cs">
+      <DependentUpon>GestionarVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificacionCompleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificacionCompleta.Designer.cs">
+      <DependentUpon>ModificacionCompleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificacionIncompleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificacionIncompleta.Designer.cs">
+      <DependentUpon>ModificacionIncompleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoAbrir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoAbrir.Designer.cs">
+      <DependentUpon>NoAbrir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produccion.designer.cs">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro Incompleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro Incompleto.Designer.cs">
+      <DependentUpon>Registro Incompleto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroCompletado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroCompletado.Designer.cs">
+      <DependentUpon>RegistroCompletado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCompleteLaCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCompleteLaCompra.Designer.cs">
+      <DependentUpon>SCompleteLaCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeguridadCerrarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeguridadCerrarSesion.Designer.cs">
+      <DependentUpon>SeguridadCerrarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioDeSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioDeSesion.Designer.cs">
+      <DependentUpon>InicioDeSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Consulta.resx">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Documento.resx">
+      <DependentUpon>Documento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarCompras.resx">
+      <DependentUpon>GestionarCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarEmpleados.resx">
+      <DependentUpon>GestionarEmpleados.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarInventario.resx">
+      <DependentUpon>GestionarInventario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarMaquinaria.resx">
+      <DependentUpon>GestionarMaquinaria.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarProveedores.resx">
+      <DependentUpon>GestionarProveedores.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionarVentas.resx">
+      <DependentUpon>GestionarVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificacionCompleta.resx">
+      <DependentUpon>ModificacionCompleta.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificacionIncompleta.resx">
+      <DependentUpon>ModificacionIncompleta.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoAbrir.resx">
+      <DependentUpon>NoAbrir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produccion.resx">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro Incompleto.resx">
+      <DependentUpon>Registro Incompleto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroCompletado.resx">
+      <DependentUpon>RegistroCompletado.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCompleteLaCompra.resx">
+      <DependentUpon>SCompleteLaCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeguridadCerrarSesion.resx">
+      <DependentUpon>SeguridadCerrarSesion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioDeSesion.resx">
+      <DependentUpon>InicioDeSesion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeguridadCompleteCam.resx">
+      <DependentUpon>SeguridadCompleteCam.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeguridadCompleteContra.resx">
+      <DependentUpon>SeguridadCompleteContra.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeguridadCompleteNom.resx">
+      <DependentUpon>SeguridadCompleteNom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeguridadIniciodeSesion.resx">
+      <DependentUpon>SeguridadIniciodeSesion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeleccioneUnaFila.resx">
+      <DependentUpon>SeleccioneUnaFila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SErrorConexion.resx">
+      <DependentUpon>SErrorConexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SNomIncorrec.resx">
+      <DependentUpon>SNomIncorrec.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SeguridadCompleteCam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeguridadCompleteCam.Designer.cs">
+      <DependentUpon>SeguridadCompleteCam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeguridadCompleteContra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeguridadCompleteContra.Designer.cs">
+      <DependentUpon>SeguridadCompleteContra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeguridadCompleteNom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeguridadCompleteNom.Designer.cs">
+      <DependentUpon>SeguridadCompleteNom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeguridadIniciodeSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeguridadIniciodeSesion.Designer.cs">
+      <DependentUpon>SeguridadIniciodeSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeleccioneUnaFila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeleccioneUnaFila.designer.cs">
+      <DependentUpon>SeleccioneUnaFila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SErrorConexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SErrorConexion.Designer.cs">
+      <DependentUpon>SErrorConexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SNomIncorrec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SNomIncorrec.Designer.cs">
+      <DependentUpon>SNomIncorrec.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AtrasP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CERRAR SESIÓN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CERRAR SESIÓNP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CerrarP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INICIAR SESIÓN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INICIAR SESIÓNP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GestionCompras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maquinaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GestionEmpleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GEstionProveedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GestionarEmpleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gestionar proveedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoSeguridad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Si.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Noo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SiP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GestionProveedores2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleados1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleados2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maquinaria1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Proveedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarEmpleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarEmpleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActulizarEmpleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActulizarEmpleadoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarEmpleadoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_compra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_compraP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_compra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_compraP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_proveedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_proveedorP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_proveedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_proveedorP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_maquinaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_maquinariaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_maquinaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_maquinariaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar_inventarioP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_proveedorP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar_inventarioP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar_empleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar_empleadoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarMaquinaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarMaquinaria1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarProveedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entendido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EntendidoP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarMateriaPrima.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarVentas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarEmpleado1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarCompra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ConsultarMaquinaria2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_generar-reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_generar-reporte %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarVenta %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarVenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GenerarReporteP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipooo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoxd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoxd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asasdasdasd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarEmpleadox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarEmpleadoxP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarCompra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarCompraP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarMateriaPrima.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarMateriaPrimaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarMaquinaria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarMaquinariaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarVentasP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarVentas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarProveedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BuscarProveedoresP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizaar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizaarP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borde Text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\+.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\+PP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Acept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AceptP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EliP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProduccionP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Produccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarProduccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarProduccionP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarProduccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarProduccionP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ActualizarVentaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistrarVentaP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AgregarCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayuda.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>(if exist "$(TargetDir)*old.pdb" del "$(TargetDir)*old.pdb") &amp; (if exist "$(TargetDir)*.pdb" ren "$(TargetDir)*.pdb" *.old.pdb)</PostBuildEvent>
+  </PropertyGroup>
+</Project>

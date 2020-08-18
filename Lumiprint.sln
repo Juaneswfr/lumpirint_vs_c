@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Lumiprint\Vista.csproj", "{B26DF647-7A03-4561-B5BC-2DD77E443DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{649BEACC-6E25-4449-89CD-9C52DB4275F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26DF647-7A03-4561-B5BC-2DD77E443DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26DF647-7A03-4561-B5BC-2DD77E443DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26DF647-7A03-4561-B5BC-2DD77E443DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26DF647-7A03-4561-B5BC-2DD77E443DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BDB5F5-98E6-43F6-AE70-82A1B98CACF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649BEACC-6E25-4449-89CD-9C52DB4275F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649BEACC-6E25-4449-89CD-9C52DB4275F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649BEACC-6E25-4449-89CD-9C52DB4275F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649BEACC-6E25-4449-89CD-9C52DB4275F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

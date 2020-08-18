@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ActualizarVenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizarVenta (1).png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_maquinariaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_maquinariaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActulizarEmpleadoP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActulizarEmpleadoP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SiP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SiP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logotipo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logotipo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarMateriaPrimaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarMateriaPrimaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_proveedorP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_proveedorP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GenerarReporteP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GenerarReporteP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActualizarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizarP1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarProveedoresP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarProveedoresP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AtrasP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AtrasP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarMaquinaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarMaquinaria.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondoxd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondoxd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GestionarVentas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bill.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Inventario.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarVentas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarVentas.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarMaquinariaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarMaquinariaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarEmpleadoxP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarEmpleadoxP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MinP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MinP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Borde Text" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Borde Text.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FondoSeguridad" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FondoSeguridad.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logotipooo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logotipooo1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarProveedores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarProveedores.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarMateriaPrima" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarMateriaPrima.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_compraP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_compraP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_compraP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_compraP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Agregar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Agregar.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GenerarReporte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_generar-reporte.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logotipooo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logotipooo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_proveedorP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_proveedorP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActualizarProduccion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizarProduccion.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarEmpleado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarEmpleado1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarVentasP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarVentasP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActualizaarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizaarP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cerrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cerrar.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iniciar_SesiónP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INICIAR SESIÓNP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarVentaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarVentaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Compras.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cerrar_sesiónP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CERRAR SESIÓNP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarProduccionP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarProduccionP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_maquinariaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_maquinariaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarVenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarVenta.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_compra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_compra.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CerrarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CerrarP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarEmpleado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarEmpleado.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asasdasdasd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asasdasdasd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Agregar_empleado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Agregar_empleado.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarMateriaPrima" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarMateriaPrima.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarCompra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarCompra.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarProduccion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarProduccion.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_inventario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_inventario.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarMaquinaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarMaquinaria.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarCompraP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarCompraP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Si" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Si.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_inventarioP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_inventarioP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_maquinaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_maquinaria.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="No" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Noo.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_proveedor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_proveedor.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Atras" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Atras.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Min" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Min.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="+" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\+.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_proveedor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_proveedor.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarCompra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarCompra.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarVentas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarVentas.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Iniciar_Sesión" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INICIAR SESIÓN.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eli" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eli.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BuscarEmpleadox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BuscarEmpleadox.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Acept" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Acept.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EliP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Empleados" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Empleados.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maquinaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maquinaria1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ConsultarProveedor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ConsultarProveedor.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_inventarioP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_inventarioP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Proveedores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Proveedores.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Produccion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Produccion.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_inventario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_inventario.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActulizarEmpleado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActulizarEmpleado.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProduccionP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ProduccionP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizaar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizaar.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Entendido" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Entendido.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Adv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Adv.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActualizarVentaP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizarVentaP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Actualizar_compra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Actualizar_compra.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondoxd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondoxd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AceptP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AceptP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ActualizarProduccionP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ActualizarProduccionP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cerrar_sesión" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CERRAR SESIÓN.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NoP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NoP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Agregar_empleadoP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Agregar_empleadoP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="+PP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\+PP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Registrar_maquinaria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Registrar_maquinaria.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RegistrarEmpleadoP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RegistrarEmpleadoP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EntendidoP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EntendidoP.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AgregarCliente" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AgregarCliente.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ayuda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ayuda.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

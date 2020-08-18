@@ -1,0 +1,204 @@
+E:\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+E:\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+E:\Lumiprint\Logica\bin\Debug\Logica.exe
+E:\Lumiprint\Logica\bin\Debug\Logica.pdb
+E:\Lumiprint\Logica\obj\Debug\Logica.exe
+E:\Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\Lumiprint\Logica\obj\Debug\Logica.exe
+I:\Lumiprint\Logica\obj\Debug\Logica.pdb
+J:\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+J:\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+J:\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+J:\Lumiprint\Logica\obj\Debug\Logica.exe
+J:\Lumiprint\Logica\bin\Debug\Logica.exe
+J:\Lumiprint\Logica\bin\Debug\Logica.pdb
+J:\Lumiprint\Logica\bin\Debug\Datos.exe
+J:\Lumiprint\Logica\bin\Debug\Datos.pdb
+J:\Lumiprint\Logica\obj\Debug\Logica.pdb
+E:\Lumiprint\Logica\bin\Debug\Datos.exe
+E:\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\Lumiprint\Logica\bin\Debug\Logica.exe
+I:\Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\Lumiprint\Logica\bin\Debug\Datos.exe
+I:\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+D:\Lumiprint\Logica\bin\Debug\Logica.exe
+D:\Lumiprint\Logica\bin\Debug\Logica.pdb
+D:\Lumiprint\Logica\bin\Debug\Datos.exe
+D:\Lumiprint\Logica\bin\Debug\Datos.pdb
+D:\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+D:\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+D:\Lumiprint\Logica\obj\Debug\Logica.exe
+D:\Lumiprint\Logica\obj\Debug\Logica.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\bin\Debug\Logica.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\bin\Debug\Logica.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\bin\Debug\Datos.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\obj\Debug\Logica.exe
+C:\Users\PC\Desktop\Avances Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\Avances Lumiprint\Logica\bin\Debug\Logica.exe
+I:\Avances Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\Avances Lumiprint\Logica\bin\Debug\Datos.exe
+I:\Avances Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\Avances Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\Avances Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\Avances Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Logica\obj\Debug\Logica.exe
+I:\Avances Lumiprint\Logica\obj\Debug\Logica.pdb
+D:\XD\Avances Lumiprint\Logica\bin\Debug\Logica.exe
+D:\XD\Avances Lumiprint\Logica\bin\Debug\Logica.pdb
+D:\XD\Avances Lumiprint\Logica\bin\Debug\Datos.exe
+D:\XD\Avances Lumiprint\Logica\bin\Debug\Datos.pdb
+D:\XD\Avances Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\XD\Avances Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+D:\XD\Avances Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+D:\XD\Avances Lumiprint\Logica\obj\Debug\Logica.exe
+D:\XD\Avances Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\XD\Lumiprint\Logica\bin\Debug\Logica.exe
+I:\XD\Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\XD\Lumiprint\Logica\bin\Debug\Datos.exe
+I:\XD\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\XD\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\XD\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\XD\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+I:\XD\Lumiprint\Logica\obj\Debug\Logica.exe
+I:\XD\Lumiprint\Logica\obj\Debug\Logica.pdb
+D:\Lumiprint\Logica\bin\Debug\itextsharp.dll
+D:\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+I:\Lumiprint\Logica\bin\Debug\itextsharp.dll
+I:\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\Logica.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\Logica.pdb
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\Datos.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\itextsharp.dll
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\bin\Debug\Datos.pdb
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\obj\Debug\Logica.exe
+C:\Users\Slend\OneDrive\Documentos\Lumiprint\Logica\obj\Debug\Logica.pdb
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\Logica.exe
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\Logica.pdb
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\Datos.exe
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\itextsharp.dll
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc20\Desktop\Lumiprint\Logica\bin\Debug\Datos.pdb
+C:\Users\pc20\Desktop\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc20\Desktop\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\pc20\Desktop\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+C:\Users\pc20\Desktop\Lumiprint\Logica\obj\Debug\Logica.exe
+C:\Users\pc20\Desktop\Lumiprint\Logica\obj\Debug\Logica.pdb
+J:\Lumiprint\Logica\bin\Debug\itextsharp.dll
+J:\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+G:\Lumiprint\Logica\bin\Debug\Logica.exe
+G:\Lumiprint\Logica\bin\Debug\Logica.pdb
+G:\Lumiprint\Logica\bin\Debug\Datos.exe
+G:\Lumiprint\Logica\bin\Debug\itextsharp.dll
+G:\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+G:\Lumiprint\Logica\bin\Debug\Datos.pdb
+G:\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+G:\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+G:\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+G:\Lumiprint\Logica\obj\Debug\Logica.exe
+G:\Lumiprint\Logica\obj\Debug\Logica.pdb
+E:\Lumiprint\Logica\bin\Debug\itextsharp.dll
+E:\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\Logica.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\Logica.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\Datos.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\itextsharp.dll
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\bin\Debug\Datos.pdb
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\obj\Debug\Logica.exe
+C:\Users\pc20\Desktop\SENA\Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Logica.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Datos.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\itextsharp.dll
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.exe
+I:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Logica.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Logica.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Datos.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\itextsharp.dll
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\bin\Debug\Datos.pdb
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.exe
+J:\VersionesProyecto\UltimaActualizacion\Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Logica.exe
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Datos.exe
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\itextsharp.dll
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+I:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\VersionesProyecto\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+I:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.exe
+I:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.pdb
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Logica.exe
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Logica.pdb
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Datos.exe
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\itextsharp.dll
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\itextsharp.pdfa.dll
+E:\VersionesProyecto\Lumiprint\Logica\bin\Debug\Datos.pdb
+E:\VersionesProyecto\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+E:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+E:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+E:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.exe
+E:\VersionesProyecto\Lumiprint\Logica\obj\Debug\Logica.pdb
+D:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.exe
+D:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.pdb
+D:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.exe
+D:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.pdb
+D:\PROYECTO\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+D:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+D:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+D:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.exe
+D:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.pdb
+J:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.exe
+J:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.pdb
+J:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.exe
+J:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.pdb
+J:\PROYECTO\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+J:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+J:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+J:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.exe
+J:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.pdb
+I:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.exe
+I:\PROYECTO\Lumiprint\Logica\bin\Debug\Logica.pdb
+I:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.exe
+I:\PROYECTO\Lumiprint\Logica\bin\Debug\Datos.pdb
+I:\PROYECTO\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+I:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+I:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+I:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.exe
+I:\PROYECTO\Lumiprint\Logica\obj\Debug\Logica.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\bin\Debug\Logica.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\bin\Debug\Logica.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\bin\Debug\Datos.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\bin\Debug\Datos.pdb
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\obj\Debug\Logica.Properties.Resources.resources
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\obj\Debug\Logica.csproj.GenerateResource.Cache
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\obj\Debug\Logica.exe
+C:\Users\pc21\Desktop\Avances\Lumiprint\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,114 @@
+I:\Lumiprint\Lumiprint\bin\Release\Vista.exe
+I:\Lumiprint\Lumiprint\bin\Release\Vista.pdb
+I:\Lumiprint\Lumiprint\obj\Release\ResolveAssemblyReference.cache
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCerrarSesion.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Iniciodesesion.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.MenuPrincipal.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Properties.Resources.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.csproj.GenerateResource.Cache
+I:\Lumiprint\Lumiprint\obj\Release\Vista.exe
+I:\Lumiprint\Lumiprint\obj\Release\Vista.pdb
+J:\Lumiprint\Lumiprint\obj\Release\ResolveAssemblyReference.cache
+J:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCerrarSesion.resources
+J:\Lumiprint\Lumiprint\obj\Release\Vista.Iniciodesesion.resources
+J:\Lumiprint\Lumiprint\obj\Release\Vista.MenuPrincipal.resources
+J:\Lumiprint\Lumiprint\obj\Release\Vista.Properties.Resources.resources
+J:\Lumiprint\Lumiprint\obj\Release\Vista.csproj.GenerateResource.Cache
+J:\Lumiprint\Lumiprint\obj\Release\Vista.exe
+J:\Lumiprint\Lumiprint\obj\Release\Vista.pdb
+E:\Lumiprint\Lumiprint\obj\Release\ResolveAssemblyReference.cache
+E:\Lumiprint\Lumiprint\obj\Release\Vista.AgregarEmpleado.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarCompras.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarEmpleados.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarInventario.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarMaquinariaa.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarProveedores.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarVentas.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.RegistrarCompra.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.RegistrarInventario.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.RegistrarMaquinaria.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.RegistrarProveedor.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCerrarSesion.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.Iniciodesesion.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.CempleadooLabel.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.Properties.Resources.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadIniciodeSesion.resources
+E:\Lumiprint\Lumiprint\obj\Release\Vista.csproj.GenerateResource.Cache
+E:\Lumiprint\Lumiprint\obj\Release\Vista.exe
+I:\Avances Lumiprint\Lumiprint\bin\Release\Vista.exe
+I:\Avances Lumiprint\Lumiprint\bin\Release\Vista.pdb
+I:\Avances Lumiprint\Lumiprint\bin\Release\Logica.exe
+I:\Avances Lumiprint\Lumiprint\bin\Release\Datos.exe
+I:\Avances Lumiprint\Lumiprint\bin\Release\Datos.pdb
+I:\Avances Lumiprint\Lumiprint\bin\Release\Logica.pdb
+I:\Avances Lumiprint\Lumiprint\obj\Release\ResolveAssemblyReference.cache
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarCompras.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarEmpleados.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarInventario.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarMaquinariaa.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarProveedores.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.GestionarVentas.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.Registro_Incompleto.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.RegistroCompletado.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCerrarSesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.Iniciodesesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.MenuPrincipal.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.Properties.Resources.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.SeguridadIniciodeSesion.resources
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.csproj.GenerateResource.Cache
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.exe
+I:\Avances Lumiprint\Lumiprint\obj\Release\Vista.pdb
+D:\Lumiprint\Lumiprint\bin\Release\Vista.exe
+D:\Lumiprint\Lumiprint\bin\Release\Vista.pdb
+D:\Lumiprint\Lumiprint\bin\Release\Logica.exe
+D:\Lumiprint\Lumiprint\bin\Release\Datos.exe
+D:\Lumiprint\Lumiprint\bin\Release\Datos.pdb
+D:\Lumiprint\Lumiprint\bin\Release\Logica.pdb
+D:\Lumiprint\Lumiprint\obj\Release\ResolveAssemblyReference.cache
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarCompras.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarEmpleados.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarInventario.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarMaquinariaa.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarProveedores.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarVentas.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.ModificacionCompleta.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.ModificacionIncompleta.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.Registro_Incompleto.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.RegistroCompletado.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCerrarSesion.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.Iniciodesesion.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.MenuPrincipal.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.Properties.Resources.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadIniciodeSesion.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.SeleccioneUnaFila.resources
+D:\Lumiprint\Lumiprint\obj\Release\Vista.csproj.GenerateResource.Cache
+D:\Lumiprint\Lumiprint\obj\Release\Vista.exe
+D:\Lumiprint\Lumiprint\obj\Release\Vista.pdb
+I:\Lumiprint\Lumiprint\bin\Release\Logica.exe
+I:\Lumiprint\Lumiprint\bin\Release\Datos.exe
+I:\Lumiprint\Lumiprint\bin\Release\Datos.pdb
+I:\Lumiprint\Lumiprint\bin\Release\Logica.pdb
+I:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarEmpleados.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarInventario.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarMaquinariaa.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarProveedores.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.GestionarVentas.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.ModificacionCompleta.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.ModificacionIncompleta.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Registro_Incompleto.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.RegistroCompletado.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadIniciodeSesion.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeleccioneUnaFila.resources
+I:\Lumiprint\Lumiprint\bin\Release\itextsharp.dll
+I:\Lumiprint\Lumiprint\bin\Release\itextsharp.pdfa.dll
+I:\Lumiprint\Lumiprint\bin\Release\RMCCustomControls.dll
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Reporte_Empleados.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCompleteCam.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCompleteContra.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SeguridadCompleteNom.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.SNomIncorrec.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Consulta.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Documento.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.CajaTa.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.NoAbrir.resources
+I:\Lumiprint\Lumiprint\obj\Release\Vista.Produccion.resources
